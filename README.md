@@ -1,5 +1,7 @@
 # What is this?
 
+You can view a live demo (here)[https://spv.spirofloropoulos.com]
+
 Quite simply, I just wanted to combat some of the negativity in 2020. So I made a PWA with Laravel as the backend.
 
 It displays a map, using Openstreetmaps, where you can click or tap to "send" positive vibes to that part of the world.
