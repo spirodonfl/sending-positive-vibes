@@ -1,0 +1,34 @@
+/* DARK THEME */
+body {
+    background: #454a59;
+}
+.like-button, .menu-button {
+    color: #d8d8d8;
+}
+.like-button.selected, .menu-button.selected {
+    color: #c77497;
+}
+.leaflet-touch .leaflet-control-zoom-in, .leaflet-touch .leaflet-control-zoom-out {
+    background-color: transparent !important;
+    color: white !important;
+}
+.leaflet-control-zoom-in {
+    border: 0px !important;
+}
+.leaflet-control-zoom {
+    border: 0px !important;
+}
+.leaflet-left, .leaflet-right {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.geohash-type-showing {
+    color: #c77497;
+}
+.geohash-type-added {
+    color: #ff006c;
+}
+
+.leaflet-tile-container img {
+    filter: grayscale(100%) invert(100%);
+}

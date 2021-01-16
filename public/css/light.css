@@ -1,0 +1,20 @@
+/* LIGHT THEME */
+body {
+    background: white;
+}
+.like-button, .menu-button {
+    color: #3b3b3b;
+}
+.like-button.selected, .menu-button.selected {
+    color: #c78e23;
+}
+.leaflet-touch .leaflet-control-zoom-in, .leaflet-touch .leaflet-control-zoom-out {
+    background-color: #a9a9a9 !important;
+    color: #393939 !important;
+}
+.geohash-type-showing {
+    color: #aa75be;
+}
+.geohash-type-added {
+    color: #b900ff;
+}

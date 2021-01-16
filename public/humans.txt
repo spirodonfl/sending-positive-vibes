@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Spiro Floropoulos -- Creator -- spirofloropoulos.com
+
+# THANKS
+
+    Alice Floropoulos
+    Georgia Floropoulos
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JS, PHP, LARAVEL
+
