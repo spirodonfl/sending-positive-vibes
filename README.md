@@ -1,6 +1,6 @@
 # What is this?
 
-You can view a live demo (here)[https://spv.spirofloropoulos.com]
+You can view a live demo [here](https://spv.spirofloropoulos.com)
 
 Quite simply, I just wanted to combat some of the negativity in 2020. So I made a PWA with Laravel as the backend.
 
