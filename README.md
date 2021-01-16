@@ -1,3 +1,17 @@
+# What is this?
+
+Quite simply, I just wanted to combat some of the negativity in 2020. So I made a PWA with Laravel as the backend.
+
+It displays a map, using Openstreetmaps, where you can click or tap to "send" positive vibes to that part of the world.
+
+Those "sends" are stored and aggregated. They are then displayed back to the client in the form of cute little hearts or aliens or whatever emoji you used to associate your positive vibe.
+
+The move vibes you send to a particular location, the bigger the icon gets, to indicate lots of vibes.
+
+That's about it. No special permissions needed. No login. Even geolocation is optional.
+
+-----------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
